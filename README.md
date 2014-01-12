@@ -1,4 +1,4 @@
 arduino-junk
 ============
 
-a place to place sketches
+A place to place sketches.
